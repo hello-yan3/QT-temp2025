@@ -1,0 +1,30 @@
+/*标题框lab样式*/
+QLabel
+{
+    font-family:Microsoft Yahei UI;
+    font-size:26px;
+    color:white;
+    font-weight:bold;
+
+}
+
+QPushButton
+{
+    background-color:rgba(0,0,0,0);
+    border:none;
+    margin:-1px;
+    padding:-1px;
+}
+/*按钮停留态*/
+QPushButton:hover
+{
+    /*背景颜色*/
+    background-color:rgb(180 , 180 , 180,100);
+}
+
+/* 标题框背景样式*/
+QWidget
+{
+    background-color: rgba(102,129,255);
+/*      background-color:transparent;*/
+}

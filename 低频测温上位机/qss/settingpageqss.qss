@@ -1,0 +1,28 @@
+/*设置界面窗口格式*/
+#SettingPage
+{
+    background-color:#EEF1F3;
+}
+
+#widget_1,#widget_2,#widget_3,#widget_4
+{
+    background-color:#FFFFFF;
+    border-radius:10px;
+}
+
+#lab_t1,#lab_t2,#lab_t3,#lab_t4
+{
+    background-color:#00A9FF;
+    color:white;
+    font-family:Microsoft Yahei UI;
+    font-size:20px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+}
+
+#lab_DataPath
+{
+    font-family:Microsoft Yahei UI;
+    font-size:16px;
+    border:1px solid gray;
+}

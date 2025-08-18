@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>closePower.png</file>
+        <file>Maximize.png</file>
+        <file>line.png</file>
+        <file>Minimize.png</file>
+        <file>front.png</file>
+        <file>setting.png</file>
+        <file>warning-off.png</file>
+        <file>warning-on.png</file>
+        <file>hint.png</file>
+        <file>close.png</file>
+        <file>chip.png</file>
+        <file>logo.png</file>
+        <file>logo2.jpg</file>
+    </qresource>
+</RCC>

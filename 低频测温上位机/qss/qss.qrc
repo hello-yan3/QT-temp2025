@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>titleqss.qss</file>
+        <file>settingpageqss.qss</file>
+        <file>mainwindowqss.qss</file>
+    </qresource>
+</RCC>
